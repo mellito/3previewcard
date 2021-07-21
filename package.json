@@ -1,0 +1,11 @@
+{
+  "name": "3columpreviewcard",
+  "version": "1.0.0",
+  "description": "ejercicio basico de html y css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dayan Manrique",
+  "license": "ISC"
+}
